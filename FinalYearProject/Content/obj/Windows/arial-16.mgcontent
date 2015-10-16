@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>F:/Documents/Visual Studio 2015/Projects/FinalYearProject/FinalYearProject/Content/arial-16.spritefont</SourceFile>
+  <SourceTime>2015-10-16T00:33:59.3448762+01:00</SourceTime>
+  <DestFile>F:/Documents/Visual Studio 2015/Projects/FinalYearProject/FinalYearProject/Content/bin/Windows/arial-16.xnb</DestFile>
+  <DestTime>2015-10-16T00:34:05.8727736+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-29T18:14:44+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-29T18:14:44+01:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
